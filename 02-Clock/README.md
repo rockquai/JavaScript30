@@ -3,7 +3,7 @@
 ##### [출처: javascript30.com](https://javascript30.com/)
 
 ## 02 - clock
-### [new Date()][https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Date]
+### [new Date()](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Date)
 - 생성자는 Date 객체가 로컬 시간에 따른 현재 날짜와 시간값을 가지도록 합니다. 만약 전달값 중 일부만 있다면, 나머지 빠진 전달값들은 모두 0이 됩니다.
 - 모든 전달값을 제공하려면 최소한 연도, 월, 일은 포함해야 하며, 시, 분, 초 그리고 밀리초는 생략할 수 있습니다.
 

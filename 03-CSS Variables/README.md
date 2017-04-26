@@ -3,7 +3,7 @@
 ##### [출처: javascript30.com](https://javascript30.com/)
 
 ## 03 - Scoped CSS Variables and JS
-### 변수 선언
+### [CSS variables](https://github.com/nhnent/fe.javascript/wiki/February-29,-2016-:-%EC%98%AC%ED%95%B4%EC%97%94-%EC%88%9C%EC%88%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%EC%8D%A8%EB%B3%B4%EB%8A%94-%EA%B1%B4-%EC%96%B4%EB%96%A8%EA%B9%8C%EC%9A%94%3F#css-variables)
 - `:root` 요소에 대해 새 스타일을 선언하고 스타일 정의 내에 두개의 하이픈 `--`을 붙여서 변수를 선언.
 - `img` 요소에 새로운 스타일을 선언하고 배경, 필터 및 패딩 속성을 루트 요소에서 정의한 변수로 설정.
 
