@@ -2,7 +2,7 @@
 
 ##### [출처: javascript30.com](https://javascript30.com/)
 
-## 01 - JavaScript Drun Kit
+## [01 - JavaScript Drun Kit](https://rockquai.github.io/JavaScript30/01-JavaScript%20Drum%20Kit/)
 ### [HTML data-* attributes](http://blog.saltfactory.net/using-html5-custom-data-attributes/)
 - HTML5의 `Custom Data Attributes` 데이터 표현이 가능
 - 태그에 대한 추가적인 정보를 제공하는 일종의 메타데이터(Metadata)

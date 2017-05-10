@@ -2,7 +2,7 @@
 
 ##### [출처: javascript30.com](https://javascript30.com/)
 
-## 06 - Ajax Type Ahead
+## [06 - Ajax Type Ahead](https://rockquai.github.io/JavaScript30/06-Ajax%20Type%20Ahead/)
 
 ### [Fetch API](http://hacks.mozilla.or.kr/2015/05/this-api-is-so-fetching/)
 - Fetch API 의 가장 유용하고, 핵심적인 함수는 `fetch()` 함수

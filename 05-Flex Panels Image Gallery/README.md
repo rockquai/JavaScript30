@@ -2,7 +2,7 @@
 
 ##### [출처: javascript30.com](https://javascript30.com/)
 
-## 05 - Flex Panels Image Gallery
+##[ 05 - Flex Panels Image Gallery](https://rockquai.github.io/JavaScript30/05-Flex%20Panels%20Image%20Gallery/)
 
 ### [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - flexbox의 콘텐츠는 어떤 방향에든 위치할 수 있으며, 동적으로 변경가능한 순서를 지정할 수도 있고, 가용한 공간 내에서 크기와 위치를 자동으로 조정
