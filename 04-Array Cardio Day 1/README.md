@@ -3,6 +3,12 @@
 ##### [출처: javascript30.com](https://javascript30.com/)
 
 ## 04 - Array Cardio Day 1
+- Array.prototype.map()
+- Array.prototype.reduce()
+- Array.prototype.sort()
+- Array.prototype.filter()
+
+---
 
 ```js
 const inventors = [
